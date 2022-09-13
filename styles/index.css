@@ -11,6 +11,11 @@ body {
 
 }
 
+
+.navright {
+    margin-right: 145px;
+}
+
 .logo {
     float:left;
     position: absolute;
@@ -272,4 +277,16 @@ justify-content: center;
     font-size: 16px;
     line-height: 24px;
     border-radius: 5px;
+}
+
+
+.checkmark1 {
+    display: flex;
+}
+
+.checkmarkone {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 30px;
+
 }
