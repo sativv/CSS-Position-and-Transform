@@ -61,6 +61,10 @@ body {
 
 }
 
+.btn-sign-in:hover {
+    border: solid black 1px;
+}
+
 .btn-orange {
     background-color:#FF9900 ;
     color: white;
@@ -72,6 +76,10 @@ body {
     width: 110px;
     height: 46px;
     border-radius: 5px;
+}
+
+.btn-orange:hover {
+    border: 1px black solid;
 }
 
 .page-1-content  {
@@ -112,6 +120,11 @@ justify-content: center;
     height: 53px;
 
 }
+
+
+.btn-get-started:hover {
+    border: solid black 1px;
+}
 .btn-video {
     width: 161px;
     height: 23px;
@@ -125,6 +138,10 @@ justify-content: center;
 
 .btn-video-color {
     color:#FF9900;
+}
+
+.btn-video-color:hover {
+    color: black;
 }
 
 .p2-titles{
@@ -176,6 +193,12 @@ color: #2F281E;
 
 .icontext{
     max-width: 240px;
+}
+
+
+.btn-sign-up-now:hover {
+    border: 1px solid black;
+
 }
 .page-3-content {
     display: flex;
@@ -346,6 +369,11 @@ color: #2F281E;
     font-size: 16px;
     line-height: 24px;
     border-radius: 5px;
+    
+}
+
+.btn-footer:hover {
+    border: 1px solid black;
 }
 
 
